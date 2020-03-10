@@ -11,5 +11,7 @@
     </content>
     <orderEntry type="jdk" jdkName="11" jdkType="JavaSDK" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="shoppingMall-common" />
+    <orderEntry type="module" module-name="shoppingMall-entity" />
   </component>
 </module>
